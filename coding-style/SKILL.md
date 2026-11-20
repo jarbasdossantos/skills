@@ -1,6 +1,6 @@
 ---
 name: code-style
-description: Apply the user's personal code style when writing, editing, or reviewing code: blank lines between logical blocks, flat control flow with guard clauses instead of if/else, Clean Code naming and functions, and SOLID design. Applies across languages; style-only requests preserve behavior.
+description: "Apply the user's personal code style when writing, editing, or reviewing code: blank lines between logical blocks, flat control flow with guard clauses instead of if/else, Clean Code naming and functions, and SOLID design. Applies across languages; style-only requests preserve behavior."
 ---
 
 # Code style
